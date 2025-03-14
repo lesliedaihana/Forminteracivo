@@ -1,4 +1,4 @@
-/* script.js */
+
 function generarFormulario() {
     let cant = document.getElementById("cantidadPersonas").value;
     let contenedor = document.getElementById("formularioContainer");
